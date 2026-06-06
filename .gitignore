@@ -1,0 +1,4 @@
+.kimchi/
+.terraform/
+*.tfstate*
+.terraform/
